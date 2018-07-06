@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bibiak mBank lokaty
-// @namespace    http://scripts.biczan.pl
-// @version      0.9.4
+// @namespace    http://blog.biczan.pl
+// @version      0.10
 // @description  Tworzy lokaty automagicznie
 // @author       You
 // @match        https://form.mbank.pl/webforms/?stkn=LOK*

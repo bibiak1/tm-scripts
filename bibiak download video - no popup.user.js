@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bibiak download video - no popup
-// @namespace    http://scripts.biczan.pl/
-// @version      0.1
+// @namespace    http://blog.biczan.pl/
+// @version      0.2
 // @description  try to take over the world!
 // @author       bibiak
 // @match        http://thevideo.me/*

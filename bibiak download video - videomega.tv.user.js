@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bibiak download video - videomega.tv
-// @namespace    http://scripts.biczan.pl/
-// @version      1.0
+// @namespace    http://blog.biczan.pl/
+// @version      1.1
 // @description  try to take over the world!
 // @author       bibiak
 // @match        http://videomega.tv/?ref=*

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bibiak download video - AnyFiles
-// @namespace    http://scripts.biczan.pl
-// @version      0.3
+// @namespace    http://blog.biczan.pl
+// @version      0.4
 // @description  AnyFiles - download video
 // @author       bibiak
 // @match        http://video.anyfiles.pl/*

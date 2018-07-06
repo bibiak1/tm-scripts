@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bibiak download video - www.nowvideo.sx
-// @namespace    http://scripts.biczan.pl/
-// @version      1.0
+// @namespace    http://blog.biczan.pl/
+// @version      1.1
 // @description  try to take over the world!
 // @author       bibiak
 // @match        http://www.nowvideo.sx/video/*
