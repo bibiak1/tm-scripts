@@ -1,15 +1,11 @@
 // ==UserScript==
 // @name         bibiak FunBox modifications
 // @namespace    http://blog.biczan.pl/
-// @version      2.2
+// @version      2.2.1
 // @description  bibiak FunBox modifications for SoftAtHome SG10_sip-pl-6.2.19.17 firmware
 // @author       bibiak
-// @match        *://*/notConnectedDevices.html*
-// @match        *://*/homeDevicesCustomize.html*
-// @match        *://10.10.0.254/*
-// @include      *://*/notConnectedDevices.html*
-// @include      *://*/homeDevicesCustomize.html*
-// @include      *://10.10.0.254/*
+// @match        *://funbox.local/*
+// @include      *://funbox.local/*
 // @grant        none
 // ==/UserScript==
 /* jshint -W097 */
